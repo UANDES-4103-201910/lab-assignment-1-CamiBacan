@@ -9,4 +9,9 @@ Inside the `body` tag, the body of the document is contained, and also all other
     Now, inside the `head` tag, we have `title`, `meta` and `link` tags: 
        
     The `title` tag is just the title of the document (which is not displayed on the screen, so it may be different than the page header).  
-    The `meta` tag provides metadata (information of the data) of the HTML document. The `meta` elements are used to specify page description, keywords, author of the document, last modified, and other metadata. In this case the `viewport` and `referrer` elements are used. The first, for setting the scale of the document that will be displayed on the screen, and the latter
+    The `meta` tag provides metadata (information of the data) of the HTML document. The `meta` elements are used to specify page description, keywords, author of the document, last modified, and other metadata. 
+    The `link` tag defines a link between a document and an external resource, is also used to link to external style sheets.  
+    
+    On the `body` tag, are two elements: `center` and `script` tags. The `center` tag is for align the text on the centre. And the`script` tag defines a link between a document and an external resource, is also used to link to external style sheets.  
+    Inside the `center` tag, we have the `table` tag that defines an HTML table, and contained on this tag we have four `tr` tags, that defines the rows of the table. Inside of each one, we have `td` tags that determines the cells of the table. In some of `tr` tags we have `tbody` tags, that defines the body of the table. Also we have a `br` tag that inserts a line break, an `img` tag that inserts an image, an `a` tag, that inserts a hyperlink, a `span` tag that groups elements on a line and a `form` tag that creates a form for user input (on the `input` tag that is also found).
+    
